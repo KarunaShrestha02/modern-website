@@ -1,5 +1,6 @@
-import styles from "./src/constants/style";
+import styles from "./style.js";
 import { Billing, Business, CardDeal, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero } from "./components";
+import './components/Billing.jsx';
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
