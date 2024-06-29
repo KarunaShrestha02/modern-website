@@ -1,5 +1,5 @@
 import styles from "./style.js";
-//import { Billing, Business, CardDeal, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero } from "./components";
+
 import Billing from './components/Billing.jsx';
 import Business from './components/Business.jsx';
 import  CardDeal from './components/CardDeal.jsx';
